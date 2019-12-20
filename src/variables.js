@@ -1,0 +1,1 @@
+export const configUri = "http://itunes.apple.com";

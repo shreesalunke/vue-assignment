@@ -1,0 +1,8 @@
+.btn {
+    background: $button-bg;
+    border-color: $button-bg;
+    border-radius: ($border-radius-base * 4);
+    &:hover, &:active, &:focus {
+        background: darken($button-bg, 20%);
+    }
+}

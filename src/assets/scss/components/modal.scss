@@ -1,0 +1,20 @@
+.modal  {
+    header {
+        background: $brand-primary;
+        .modal-title {
+            color: $white;
+        }
+        .close {
+           color: $white; 
+        }
+    }
+    .modal-body {
+        background: $light-gray;
+        .form-control {
+            height: 40px;
+            border-radius: 0;
+            border-color: $light-gray;
+            box-shadow: none;
+        }
+    }
+}
