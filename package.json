@@ -18,7 +18,7 @@
     "bootstrap-vue": "^2.1.0",
     "core-js": "^2.6.5",
     "fusioncharts": "^3.14.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "vue": "^2.6.10",
     "vue-fusioncharts": "^3.0.4",
